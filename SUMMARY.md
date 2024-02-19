@@ -10,6 +10,7 @@
   * [Basics of Terraform](terraform/basics-of-terraform/README.md)
     * [Plugin-based Architecture](terraform/basics-of-terraform/plugin-based-architecture.md)
     * [How Terraform Finds and Fetches Providers](terraform/basics-of-terraform/how-terraform-finds-and-fetches-providers.md)
+    * [Using Provisioners, local-exec, or remote-exec](terraform/basics-of-terraform/using-provisioners-local-exec-or-remote-exec.md)
   * [Using the Terraform CLI](terraform/using-the-terraform-cli.md)
   * [Terraform Variables](terraform/terraform-variables.md)
   * [Terraform Modules](terraform/terraform-modules.md)
