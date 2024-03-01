@@ -4,7 +4,7 @@ description: Learn about the plugin-based architecture of Terraform.
 
 # Plugin-based Architecture
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Terraform architecture</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Terraform architecture</p></figcaption></figure>
 
 **Terraform's Core Structure:** Terraform, coded in Go (Golang), is packaged as a single binary with essential components for interpreting and deploying configurations. Instead of embedding codes for various providers and provisioners, Terraform relies on plugins. These plugins function as separate processes, communicating with the core Terraform binary through an RPC interface.
 

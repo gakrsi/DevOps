@@ -7,12 +7,11 @@ description: Learn how to work with modules in detail.
 #### Folder Structure:
 
 ```plaintext
-plaintextCopy codesqs-with-backoff/
+sqs-with-backoff/
     main.tf
     variables.tf
     output.tf
 main.tf
-variable.tf
 ```
 
 #### Module Explanation:

@@ -1,6 +1,6 @@
 # What is Infrastructure as Code?
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Infrastructure as Code</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Infrastructure as Code</p></figcaption></figure>
 
 **Understanding Infrastructure:** Infrastructure is the backbone of applications, traditionally comprising servers, storage, and networking. Virtualization further divides servers into physical and virtual machines, while cloud providers offer IaaS, PaaS, and SaaS.
 
