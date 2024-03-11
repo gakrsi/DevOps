@@ -50,3 +50,8 @@
   * [Implement and Maintain State](terraform/implement-and-maintain-state.md)
   * [Read, Generate, and Modify Configuration](terraform/read-generate-and-modify-configuration.md)
   * [Page](terraform/page.md)
+* [FrogBot](frogbot/README.md)
+  * [Comparison](frogbot/comparison.md)
+  * [Supported Technology](frogbot/supported-technology.md)
+  * [Setup](frogbot/setup/README.md)
+    * [GitLab](frogbot/setup/gitlab.md)
