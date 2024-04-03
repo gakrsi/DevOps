@@ -95,7 +95,7 @@ module "vpc" {
 *   State data isn't immediately written; `terraform apply` triggers the actual state creation.
 
     ```bash
-    bashCopy codeterraform apply
+    terraform apply
     ```
 * Post-0.14, a lock file (.terraform.lock.hcl) records provider details, ensuring consistency across environments.
 
@@ -107,6 +107,4 @@ Before the Terraform symphony begins, `terraform init` orchestrates the foundati
 
 * **Initialization Prowess:** `terraform init` is the gateway to a functional Terraform configuration.
 * **Diligent Preparation:** Back-end readiness, module retrieval, and plugin gathering define the meticulous operations of `terraform init`.
-* **Consistent Environment:** The lock file, introduced post-0.14, ensures provider version consistency across diverse environments.
-
-Embark on your Terraform journey by unlocking the configuration magic with a well-orchestrated `terraform init` command.\
+* **Consistent Environment:** The lock file, introduced post-0.14, ensures provider version consistency across diverse environments.\
