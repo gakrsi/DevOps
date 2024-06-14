@@ -4,7 +4,7 @@ description: Learn when and how to initialize a terraform working directory.
 
 # Initialize a Terraform Working Directory
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Terraform Initialization Demystified: Setting the Stage for Configuration Magic
 

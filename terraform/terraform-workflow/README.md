@@ -4,7 +4,7 @@ description: Learn about Terraform's core workflow.
 
 # Terraform Workflow
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 #### Navigating the Terraform Workflow: Write, Plan, Apply
 
