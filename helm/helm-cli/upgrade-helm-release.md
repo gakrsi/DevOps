@@ -19,7 +19,7 @@ helm upgrade [RELEASE_NAME] [CHART] [flags]
 
 **Parameters Explained**
 
-* **`-n, --namespace`**: Specifies the Kubernetes namespace where the release is located. In your case, it's `-n monitoring`.
+* **`-n, --namespace`**: Specifies the Kubernetes namespace where the release is located. In your case.
 * **`--install`**: Ensures that if the release doesn't exist, Helm will install it. This flag is useful during upgrades when you're not sure if the release has been installed previously.
 * **`--create-namespace`**: Creates the Kubernetes namespace if it doesn't already exist. This is helpful when deploying into a new namespace during upgrades.
 
